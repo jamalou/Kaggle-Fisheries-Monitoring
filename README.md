@@ -1,5 +1,5 @@
 # Kaggle-Fisheries-Monitoring
-A solution to the [The Nature Conservancy Fisheries Monitoring" kaggle challenge](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring).
+A solution to the [The Nature Conservancy Fisheries Monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) kaggle challenge.
 ### About
 To solve the problem I finetuned some of the top layers of InceptionResnetV2 (trained initially on ImageNet dataset). The solution has about 0.96 log loss on the public leaderboard.
 
